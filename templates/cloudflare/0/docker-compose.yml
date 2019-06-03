@@ -1,5 +1,5 @@
 #Debian sid slim with nginx
-version: '3'
+version: '2'
 services:
  nginx:
      image: pinyo/malloy
