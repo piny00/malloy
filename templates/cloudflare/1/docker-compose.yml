@@ -1,0 +1,8 @@
+#Debian sid slim with nginx
+version: '2'
+services:
+ nginx:
+     image: pinyo/malloy
+     ports:
+       - 8880:8880
+

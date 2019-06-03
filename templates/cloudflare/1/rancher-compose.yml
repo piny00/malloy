@@ -1,0 +1,10 @@
+version: '2'
+catalog:
+  name: Malloy
+  version: 1.0
+  description: This is a simple web service.
+  minimum_rancher_version: 1.0.1
+  maximum_rancher_version: 1.6.26
+  upgrade_from: 1.0.0
+  questions: #no questions
+
